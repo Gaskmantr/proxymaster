@@ -4,6 +4,22 @@ import random
 from bs4 import BeautifulSoup
 import threading
 
+print("""
+
+
+ _ __  _ __ _____  ___   _
+| '_ \| '__/ _ \ \/ | | | |
+| |_) | | | (_) >  <| |_| |
+| .__/|_|  \___/_/\_\\__, |
+|_|                  |___/
+
+                        Coded by GaskmanTR
+
+
+
+"""=
+
+
 # dichiarazione della lista degli useragents per evitare che il sito ci blocchi per le numerose richieste
 useragents=["AdsBot-Google ( http://www.google.com/adsbot.html)",
 			"Avant Browser/1.2.789rel1 (http://www.avantbrowser.com)",
