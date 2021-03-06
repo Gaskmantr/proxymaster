@@ -17,7 +17,7 @@ print("""
 
 
 
-"""=
+""")
 
 
 # dichiarazione della lista degli useragents per evitare che il sito ci blocchi per le numerose richieste
